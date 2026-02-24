@@ -54,3 +54,7 @@ Batch Report Generator/
      - Average attendance and marks
      - Count of passed and failed students
      - List of top 3 students by marks
+## GitHub Repository Link
+```bash
+  https://github.com/Anand9381/Batch-Report-Generator.git
+   ```
